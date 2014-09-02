@@ -2,6 +2,8 @@
 
 Document repository and index source for [chadocs](https://github.com/openchattanooga/chadocs).
 
+New documents submitted to this repository will be automatically fed into chadoc's document index about every 15 minutes.
+
 ## Metadata 
 
 Please do your best in regards to adding metadata to the document. Please have a `Title` metadata item, for instance.
